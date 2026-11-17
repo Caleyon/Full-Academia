@@ -1,0 +1,20 @@
+{
+  "fijos": {
+    "universidad": "UNIVERSIDAD NACIONAL DE SAN AGUSTÍN",
+    "facultad": "FACULTAD DE CIENCIAS CONTABLES Y FINANCIERAS",
+    "escuela": "ESCUELA PROFESIONAL DE FINANZAS",
+    "ubicacion": "AREQUIPA - PERÚ",
+    "anio": "2026"
+  },
+  "variables": {
+    "titulo": "PROYECTO DE INVERSIONES - INGENIERÍA FINANCIERA",
+    "integrantes": [
+      "Anders Leonardo Concha Tello",
+      "Selena Idme Cruz",
+      "Ruth Yeny Huayllani Chuctaya",
+      "Ailyn Ingrid Florez Quispe"
+    ],
+    "docente": "Dr. Benjamin Obando Gomez",
+    "asignatura": "INGENIERÍA FINANCIERA"
+  }
+}
